@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OrganizeDirectoryAutomation-PythonApp"
+		},
+		{
+			"path": "../SeleniumApp-PythonApp"
+		}
+	],
+    "settings": {}
+}
